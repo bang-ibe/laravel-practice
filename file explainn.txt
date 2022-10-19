@@ -1,0 +1,10 @@
+app folder : models - user.php, resources - view, http - controller -controllers.php 
+pay attenntion on routes
+public - saving sstatic assets such as css js pictures
+.env change to app_url =  
+source ~/.bash_profile
+add .blade.php on every views folder's file
+file css added in the public folder
+
+storage - framework - views : hasil compile laravel
+controller in folder controller
